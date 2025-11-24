@@ -1,0 +1,4 @@
+project_id = "npnxxlkzdprvbfsiamgj"
+
+[functions.diagnose-eye-condition]
+verify_jwt = false
